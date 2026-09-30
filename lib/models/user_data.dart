@@ -16,7 +16,7 @@ final User user1 = User(
   name: "Luri Ayudia Anjani",
 );
 
-// // 🔥 List user — tinggal tambah kalau ada user baru
+// // 🔥 List user 
 // final List<User> users = [
 //   const User(
 //     username: "124240030",

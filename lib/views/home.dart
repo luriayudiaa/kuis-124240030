@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import '../models/pokemon.dart';
 import 'detail.dart';
 import 'login.dart';
+
 class HomePage extends StatelessWidget {
   const HomePage({super.key});
 
