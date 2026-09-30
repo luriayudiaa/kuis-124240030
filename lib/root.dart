@@ -17,9 +17,7 @@ class _RootState extends State<Root> {
     List<Widget> pages = [HomePage(), ProfilePage()];
 
     return Scaffold(
-
-      backgroundColor: Colors.white, // ungu muda
-      appBar: AppBar(
+            appBar: AppBar(
         backgroundColor: Colors.black,
         foregroundColor: Colors.white,
         title: const Text("Pokemon App"),
